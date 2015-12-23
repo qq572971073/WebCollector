@@ -128,6 +128,6 @@ WebCollector could automatically extract content from news web-pages:
 
 
 
-###Other Documentation
+###Other Documentation梵蒂冈地方台
 
 + [中文文档](https://github.com/CrawlScript/WebCollector/blob/master/README.zh-cn.md)
